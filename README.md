@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
 # minigame-1
 ## Devlog
-Hi.
+Metaphor: Shopping in a mall. The whole process is like exploring new things within Unity. When I saw some interesting tools, I would try them just like I walk into stores in the mall. But I still follow the direction as the guideline tells. But eventually, I will find out what I need to add on and run the game successfully. Overall, I think our first minigame project is preparing us for future projects, and I like what we are currently doing.
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 - Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
